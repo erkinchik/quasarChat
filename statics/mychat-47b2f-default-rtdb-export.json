@@ -1,0 +1,55 @@
+{
+  "chats": {
+    "1qHU0o94koRNT9OBUeBTr9K82Ud2": {
+      "ePe2HQJ9I8bY2STkef0pWNiQxex1": {
+        "MESSAGEID1": {
+          "from": "them",
+          "text": "hey"
+        },
+        "MESSAGEID2": {
+          "from": "me",
+          "text": "hey yo"
+        }
+      }
+    },
+    "ePe2HQJ9I8bY2STkef0pWNiQxex1": {
+      "1qHU0o94koRNT9OBUeBTr9K82Ud2": {
+        "MESSAGEID1": {
+          "from": "me",
+          "text": "hey"
+        },
+        "MESSAGEID2": {
+          "from": "them",
+          "text": "hey yo"
+        }
+      }
+    }
+  },
+  "users": {
+    "1qHU0o94koRNT9OBUeBTr9K82Ud2": {
+      "email": "dan@email.com",
+      "name": "dan",
+      "online": true
+    },
+    "Cj4nUw6Om8RufOHbdYfTA2bCJ1P2": {
+      "email": "erkin@email.com",
+      "name": "erkin",
+      "online": false
+    },
+    "USERID1": {
+      "email": "denny@test.com",
+      "name": "Danny",
+      "online": false
+    },
+    "USERID2": {
+      "email": "jim@test.com",
+      "name": "Jim",
+      "online": true
+    },
+    "ePe2HQJ9I8bY2STkef0pWNiQxex1": {
+      "email": "erkin1@email.com",
+      "name": "erkin1",
+      "online": false
+    }
+  }
+}
